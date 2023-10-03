@@ -26,15 +26,15 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/CVRpy/flask-city-weather-app.git
-   cd flask-city-weather-app
+   git clone https://github.com/CVRpy/Flask-Weather-api.git
+   cd Flask-Weather-api
    ```
 
 2. Create a virtual environment and activate it:
 
    ```shell
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
    ```
 
 3. Install the required packages:
